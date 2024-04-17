@@ -1,0 +1,102 @@
+h1{
+    color:gold
+}
+
+.video{
+    text-align:center;
+}
+
+.pages{
+    text-align:center;
+    list-style-position: inside;
+    padding-left: 0;
+}
+
+
+h2{
+    text-align:center
+}
+
+.mvp{
+    color:gold;
+    font-weight:bold;
+    font-size:xx-large;
+    font-style:initial;
+    text-align: center; 
+    background:#000000;
+    
+}
+
+body{
+    background:whitesmoke
+}
+
+.column{
+    float: left;
+    width: 75%;
+}
+
+.row:after{
+    content:"";
+    display: table;
+    clear: both;
+}
+
+.tableauPlaceholder{
+    text-align:center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.resumeHeader{
+    text-align:center;
+    font-style:initial;
+    font-size:xx-large
+}
+
+.contactInfo{
+    text-align:center;
+    font-style:initial;
+    
+}
+
+.title{
+    font-style:italic;
+}
+
+.columnRight{
+    float:right;
+    width:25%
+}
+
+.subHead{
+    font-weight:bold;
+    font-size:large;
+}
+
+.location{
+    float:right;
+}
+
+a:hover{
+    color:tan;
+}
+
+
+.champList{
+    display:inline-block;
+    text-align:left;
+}
+
+.video{
+    margin-right:auto;
+    margin-left:auto;
+}
+
+.list{
+    float:right;
+    width:30%;
+}
